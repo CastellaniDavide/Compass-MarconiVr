@@ -52,11 +52,13 @@ The work was make by Marconi's students:
 - Legenda's icons
 #### Modified
 - Logo
+
 ---
 ### Version_0.5.3_2019-11-15
 #### Added
 - "Orario" screen
 - https://airtable.com/ database for class names
+
 ---
 ### Version_0.5.2_2019-11-14
 #### Added 
@@ -64,11 +66,13 @@ The work was make by Marconi's students:
 - "Contatti" Screen
 #### Modified
 - Titles on the screens
+
 ---
 ### Version_0.5.1_2019-11-14
 #### Modified 
 - titles for the floors
 - correct some bugs
+
 ---
 ### Version_0.5.0_2019-11-13
 #### Added

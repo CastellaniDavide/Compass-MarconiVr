@@ -50,6 +50,7 @@ The work was make by Marconi's students:
 ### Version_0.6.0_2019-11-17
 #### Added
 - Legenda's icons
+
 #### Modified
 - Logo
 
@@ -64,6 +65,7 @@ The work was make by Marconi's students:
 #### Added 
 - "Riconoscimenti" basical structure
 - "Contatti" Screen
+
 #### Modified
 - Titles on the screens
 
@@ -78,6 +80,7 @@ The work was make by Marconi's students:
 #### Added
 - graphichs
 - functionality
+
 #### Modified 
 - correct some bugs
 - changed platform (thunkable classic -> thunkable X)
@@ -98,6 +101,7 @@ The work was make by Marconi's students:
 ### Version_0.4.1_2019-11-08
 #### Added
 - some imagines and writes in the 2nd and 3th screen
+
 #### Modified 
 - another test to zoom imagines (in WebViewer)
 - Screens names
@@ -106,6 +110,7 @@ The work was make by Marconi's students:
 ### Version_0.4.0_2019-11-07
 #### Added
 - an e.g. for the app icon
+
 #### Modified 
 - platform (appinvertor -> thrunkable classic)
 - bottom graphics
@@ -131,6 +136,7 @@ The work was make by Marconi's students:
 ### Version_0.2.0_2019-10-28
 #### Added
 - some test imagines
+
 #### Modified 
 - bottoms color and form
 

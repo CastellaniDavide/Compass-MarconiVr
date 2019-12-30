@@ -9,17 +9,17 @@ The work was make by Marconi's students:
     - group leader
     - app maker (with thunkable X)
     - imgs editor
-- Pavoni Alberto
+- *** Alberto
     - icons maker
     - logo desiner
-- Picottini Filippo
+- *** Filippo
     - img for plants 1 and 3
-- Xia Ye Paolo
+- *** Paolo
     - img for plants 0 and 2
 
 ---
 ## Changelog
-- [Version_0.6.1_2019-12-06](#Version_061_2019-12-06)
+- [Version_0.7.0_2019-12-30](#Version_070_2019-12-30)
 - [Version_0.6.1_2019-12-06](#Version_061_2019-12-06)
 - [Version_0.6.0_2019-11-17](#Version_060_2019-11-17)
 - [Version_0.5.3_2019-11-15](#Version_053_2019-11-15)

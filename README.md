@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image / x-icon" href="Compass-MarconiVr.ico">
+
 # Compass
 ## Description 
 Compass is an app for orientation in the school Marconi. 

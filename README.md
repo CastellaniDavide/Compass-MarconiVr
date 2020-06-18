@@ -1,26 +1,25 @@
-<link rel="shortcut icon" type="image / x-icon" href="Compass-MarconiVr.ico">
-
 # Compass
 ## Description 
-Compass is an app for orientation in the school Marconi. 
+Compass is an app (at the moment only for Android) for orientation in the school Marconi. 
 
 ---
 ## Who do this? 
 The work was make by Marconi's students:
-- Castellani Davide (davidecastellani@castellanidavide.it)
+- Castellani Davide (contacts@castellanidavide.it)
     - group leader
-    - app maker (with thunkable X)
-    - imgs editor
-- *** Alberto
-    - icons maker
-    - logo desiner
-- *** Filippo
-    - img for plants 1 and 3
-- *** Paolo
-    - img for plants 0 and 2
+    - app maker (with Android Studio)
+    - ...
+    
+---
+## What I used?
+I used:
+- Android Studio
+- Bootstrap Studio
+- imagination
 
 ---
 ## Changelog
+- [Version_01.01_2020-06-18](#Version_0101_2020-06-18)
 - [Version_0.7.0_2019-12-30](#Version_070_2019-12-30)
 - [Version_0.6.1_2019-12-06](#Version_061_2019-12-06)
 - [Version_0.6.0_2019-11-17](#Version_060_2019-11-17)
@@ -37,6 +36,11 @@ The work was make by Marconi's students:
 - [Version_0.3.0_2019-11-01](#Version_030_2019-11-01)
 - [Version_0.2.0_2019-10-28](#Version_020_2019-10-28)
 - [Version_0.1.0_2019-09-27](#Version_010_2019-09-27)
+
+---
+### Version_01.01_2020-06-18
+#### Changed
+- Now the app is built with Android Studio
 
 ---
 ### Version_0.7.0_2019-12-30

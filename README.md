@@ -6,7 +6,7 @@
 ![sys.platform supported](https://img.shields.io/badge/os%20platform%20supported-Android-blue?style=flat)
 [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/Compass-MarconiVr)
 
-## Description 
+## Description
 Compass is an app (at the moment only for Android) for orientation in the school Marconi. 
 
 ---
@@ -26,6 +26,7 @@ I used:
 
 ---
 ## Changelog
+- [Version_01.02_2020-06-19](#Version_0102_2020-06-19)
 - [Version_01.01_2020-06-18](#Version_0101_2020-06-18)
 - [Version_0.7.0_2019-12-30](#Version_070_2019-12-30)
 - [Version_0.6.1_2019-12-06](#Version_061_2019-12-06)
@@ -45,6 +46,13 @@ I used:
 - [Version_0.1.0_2019-09-27](#Version_010_2019-09-27)
 
 ---
+### Version_01.02_2020-06-19
+#### Changed
+- Optimize style
+    - added the logo near the title (in the navbar)
+    - Added some titles
+
+---
 ### Version_01.01_2020-06-18
 #### Changed
 - Now the app is built with Android Studio
@@ -52,12 +60,12 @@ I used:
 ---
 ### Version_0.7.0_2019-12-30
 #### Added
-- Orario now go
+- Orario now run
 
 ---
 ### Version_0.6.1_2019-12-06
 #### Modified
-- Uploaded piano0 img, immagine version: 01.01
+- Uploaded piano0 img, imagine version: 01.01
 
 ---
 ### Version_0.6.0_2019-11-17
@@ -76,7 +84,7 @@ I used:
 ---
 ### Version_0.5.2_2019-11-14
 #### Added 
-- "Riconoscimenti" basical structure
+- "Riconoscimenti" basic structure
 - "Contatti" Screen
 
 #### Modified

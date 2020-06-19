@@ -11,7 +11,7 @@ Compass is an app (at the moment only for Android) for orientation in the school
 
 ---
 ## Who do this? 
-The work was make by Marconi's students:
+The work was made by Marconi's students:
 - Castellani Davide (contacts@castellanidavide.it)
     - group leader
     - app maker (with Android Studio)
@@ -105,8 +105,8 @@ I used:
 #### Modified 
 - correct some bugs
 - changed platform (thunkable classic -> thunkable X)
-- the tipe of changing pages
-- now it can be go on a IOS product
+- the type of changing pages
+- now it can go on an IOS product
 
 ---
 ### Version_0.4.3_2019-11-08
@@ -121,7 +121,7 @@ I used:
 ---
 ### Version_0.4.1_2019-11-08
 #### Added
-- some imagines and writes in the 2nd and 3th screen
+- some imagines and writes in the 2nd and 3rd screen
 
 #### Modified 
 - another test to zoom imagines (in WebViewer)
@@ -164,4 +164,4 @@ I used:
 ---
 ### Version_0.1.0_2019-09-27
 #### Added
-- Create a schematic idealy app (on appinventor.it)
+- Create a schematic ideally app (on appinventor.it)

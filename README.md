@@ -1,7 +1,7 @@
 # Compass
 [![GitHub license](https://img.shields.io/badge/licence-MIT-green?style=flat)](https://github.com/CastellaniDavide/Compass-MarconiVr/blob/master/LICENSE)
 ![Author](https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat)
-![Version](https://img.shields.io/badge/version-v01.02-blue?style=flat)
+![Version](https://img.shields.io/badge/version-v01.03-blue?style=flat)
 ![Language php, html, ...](https://img.shields.io/badge/language-java,%20html,%20...-yellowgreen?style=flat)
 ![sys.platform supported](https://img.shields.io/badge/os%20platform%20supported-Android-blue?style=flat)
 [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/Compass-MarconiVr)
@@ -26,6 +26,7 @@ I used:
 
 ---
 ## Changelog
+- [Version_01.03_2020-06-19](#Version_0103_2020-06-19)
 - [Version_01.02_2020-06-19](#Version_0102_2020-06-19)
 - [Version_01.01_2020-06-18](#Version_0101_2020-06-18)
 - [Version_0.7.0_2019-12-30](#Version_070_2019-12-30)
@@ -44,6 +45,13 @@ I used:
 - [Version_0.3.0_2019-11-01](#Version_030_2019-11-01)
 - [Version_0.2.0_2019-10-28](#Version_020_2019-10-28)
 - [Version_0.1.0_2019-09-27](#Version_010_2019-09-27)
+
+---
+### Version_01.03_2020-06-19
+#### Changed
+- Optimize style
+    - Optimize titles
+- Added "CREDITI"
 
 ---
 ### Version_01.02_2020-06-19

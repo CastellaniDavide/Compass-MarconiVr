@@ -16,13 +16,35 @@ The work was made by Marconi's students:
     - group leader
     - app maker (with Android Studio)
     - ...
+
+---
+## Final Objectives
+- light app
+- offline mode
+- upgrade notification
+- sync between devices (when it's online)
     
 ---
 ## What I used?
 I used:
 - Android Studio
 - Bootstrap Studio
-- imagination
+- Imagination
+
+What I need in the future:
+- a database
+- a storage w/ web access
+
+---
+## Task List
+- [x] v0: Test the platforms to made the application
+- [ ] v1: Made the first version of the app, at the moment it is a webapp
+- [ ] v2: Transform the app by webapp to native
+- [ ] v3: Add upgrade option, with notification
+- [ ] v4: Multi-language option 
+- [ ] v5: Add the possibility to have more than one school/ firm in app, w/ associated website and/ or app for the manager
+- [ ] v6: Add login to manage all and sync data between the devices
+- [ ] v7: Wait a moment, please. I have to find new ideas yet
 
 ---
 ## Changelog

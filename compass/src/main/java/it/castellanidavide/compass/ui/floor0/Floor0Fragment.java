@@ -1,7 +1,9 @@
 package it.castellanidavide.compass.ui.floor0.home;
 
+import android.opengl.Matrix;
 import android.os.Bundle;
 import android.view.LayoutInflater;
+import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -19,6 +21,11 @@ public class Floor0Fragment extends Fragment {
 
     private Floor0ViewModel floor0ViewModel;
 
+    ImageView imageView;
+    Matrix matrix = new Matrix();
+    Float scale = 1f;
+    ScaleGestureDetector SGD;
+
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         floor0ViewModel =
@@ -31,7 +38,6 @@ public class Floor0Fragment extends Fragment {
                 textView.setText(s);
             }
         });*/
-
 
         return root;
     }

@@ -1,8 +1,21 @@
 package it.castellanidavide.compass;
 
+import android.annotation.SuppressLint;
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
+import android.content.res.Configuration;
+import android.content.res.Resources;
+import android.os.Build;
+import android.util.DisplayMetrics;
+
+import java.io.*;
+import java.util.Locale;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
@@ -20,10 +33,15 @@ public class Compass extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
 
+    @SuppressLint("WrongConstant")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //setAppLocale("IT"); // For debug
+
         setContentView(R.layout.activity_compass);
+
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         /*FloatingActionButton fab = findViewById(R.id.fab);
@@ -34,6 +52,7 @@ public class Compass extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });*/
+
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         NavigationView navigationView = findViewById(R.id.nav_view);
         // Passing each menu ID as a set of Ids because each
@@ -54,7 +73,32 @@ public class Compass extends AppCompatActivity {
         return true;
     }
 
- */
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+            case R.id.IT:
+                setAppLocale("IT");
+                return true;
+            case R.id.EN:
+                setAppLocale("EN");
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }*/
+
+    private void setAppLocale(String localeCode){
+        Resources resources = getResources();
+        DisplayMetrics dm = resources.getDisplayMetrics();
+        Configuration config = resources.getConfiguration();
+        if (Build.VERSION.SDK_INT>=Build.VERSION_CODES.JELLY_BEAN_MR1){
+            config.setLocale(new Locale(localeCode.toLowerCase()));
+        } else {
+            config.locale = new Locale(localeCode.toLowerCase());
+        }
+        resources.updateConfiguration(config, dm);
+    }
 
     @Override
     public boolean onSupportNavigateUp() {

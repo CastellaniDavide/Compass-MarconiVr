@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settaggi</string>
+    <string name="floor0">Piano 0</string>
+    <string name="nav_header_title">Castellani Davide (Creatore dell\'App)</string>
+    <string name="nav_header_subtitle">Per segnalare un problema: help@castellanidavide.it</string>
+    <string name="floor1">Piano 1</string>
+    <string name="floor2">Piano 2</string>
+    <string name="floor3">Piano 3</string>
+    <string name="floorextra">Palazzina</string>
+    <string name="credits">Crediti</string>
+    <string name="credits1">Questa applicazione è stata possibile grazie a:</string>
+    <string name="credits2">Castellani Davide (Creatore dell\'Ap)</string>
+    <string name="credits3">Meggiolaro (Creatore delle piantine)</string>
+    <string name="credits4">Android Studio (strumento per la realizzazione dell\'App)</string>
+    <string name="credits5">Git &amp; GitHub (stumento per la gestione del progetto)</string>
+    <string name="creditshelp">Se hai un qualche problema contattami pure: help@castellanidavide.it</string>
+</resources>

@@ -1,7 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Compass</string>
-    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
-    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
     <string name="nav_header_title">Castellani Davide (App creator)</string>
     <string name="nav_header_subtitle">To report an issue: help@castellanidavide.it</string>
     <string name="action_settings">Settings</string>
@@ -17,7 +15,6 @@
     <string name="credits3">Meggiolaro (Maps Creator)</string>
     <string name="credits4">Android Studio (tool to create this app)</string>
     <string name="credits5">Git &amp; GitHub (tool to manage projects)</string>
-    <string name="credits6" translatable="false">ITI G. Marconi VR</string>
     <string name="credits2">Castellani Davide (App Creator)</string>
     <string name="creditshelp">If you have any problem you can contact me: help@castellanidavide.it</string>
 

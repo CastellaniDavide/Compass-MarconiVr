@@ -25,12 +25,12 @@ public class FloorExtraFragment extends Fragment {
                 ViewModelProviders.of(this).get(FloorExtraViewModel.class);
         View root = inflater.inflate(R.layout.fragment_floor_extra, container, false);
         final TextView textView = root.findViewById(R.id.text_floor_extra);
-        floorExtraViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+        /*floorExtraViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {
                 textView.setText(s);
             }
-        });
+        });*/
 
 
         return root;

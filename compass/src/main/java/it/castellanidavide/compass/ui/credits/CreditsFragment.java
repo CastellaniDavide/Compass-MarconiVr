@@ -25,12 +25,12 @@ public class CreditsFragment extends Fragment {
                 ViewModelProviders.of(this).get(CreditsViewModel.class);
         View root = inflater.inflate(R.layout.fragment_credits, container, false);
         final TextView textView = root.findViewById(R.id.text_credits);
-        CreditsViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+        /*CreditsViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {
                 textView.setText(s);
             }
-        });
+        });*/
 
 
         return root;

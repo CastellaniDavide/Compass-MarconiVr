@@ -8,6 +8,7 @@
 
     <TextView
         android:id="@+id/text_floor1"
+        android:text="@string/floor1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"

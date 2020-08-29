@@ -12,7 +12,7 @@
     <string name="credits1">Questa applicazione è stata possibile grazie a:</string>
     <string name="credits2">Castellani Davide (Creatore dell\'Ap)</string>
     <string name="credits3">Meggiolaro (Creatore delle piantine)</string>
-    <string name="credits4">Android Studio (strumento per la realizzazione dell\'App)</string>
+    <string name="credits4">Google &amp; Android Studio (strumento/i per la realizzazione dell\'App)</string>
     <string name="credits5">Git &amp; GitHub (stumento per la gestione del progetto)</string>
     <string name="creditshelp">Se hai un qualche problema contattami pure: help@castellanidavide.it</string>
 </resources>

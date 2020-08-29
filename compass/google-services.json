@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445968205493",
+    "firebase_url": "https://compass-castellani-davide.firebaseio.com",
+    "project_id": "compass-castellani-davide",
+    "storage_bucket": "compass-castellani-davide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445968205493:android:8766b407b0f3998fc660fc",
+        "android_client_info": {
+          "package_name": "it.castellanidavide.compass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445968205493-sqap68gkco4d6ipv3rr8lkan7lbaqtn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkU82Xd37Tl9xDK6G16hN0bw7i2CjUz9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445968205493-sqap68gkco4d6ipv3rr8lkan7lbaqtn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

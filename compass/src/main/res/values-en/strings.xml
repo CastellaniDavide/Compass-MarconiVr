@@ -13,7 +13,7 @@
 
     <string name="credits1">This app is made possible by:</string>
     <string name="credits3">Meggiolaro (Maps Creator)</string>
-    <string name="credits4">Android Studio (tool to create this app)</string>
+    <string name="credits4">Google &amp; Android Studio (tool/tools to create this app)</string>
     <string name="credits5">Git &amp; GitHub (tool to manage projects)</string>
     <string name="credits2">Castellani Davide (App Creator)</string>
     <string name="creditshelp">If you have any problem you can contact me: help@castellanidavide.it</string>

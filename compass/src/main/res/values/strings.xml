@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Castellani Davide (App creator)</string>
+    <string name="nav_header_subtitle">To report an issue: help@castellanidavide.it</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="floor0">Floor 0</string>
+    <string name="floor1">Floor 1</string>
+    <string name="floor2">Floor 2</string>
+    <string name="floor3">Floor 3</string>
+    <string name="floorextra">Palazzina</string>
+    <string name="credits">Credits</string>
+
+    <string name="credits1">This app is made possible by:</string>
+    <string name="credits2">Castellani Davide (App Creator)</string>
+    <string name="credits3">Meggiolaro (Maps Creator)</string>
+    <string name="credits4">Android Studio (tool to create this app)</string>
+    <string name="credits5">Git &amp; GitHub (tool to manage projects)</string>
+    <string name="credits6">ITI G. Marconi VR</string>
+    <string name="creditshelp">If you have any problem you can contact me: help@castellanidavide.it</string>
+
+</resources>

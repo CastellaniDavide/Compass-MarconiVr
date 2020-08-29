@@ -38,7 +38,7 @@ What I need in the future:
 ---
 ## Task List
 - [x] v0: Test the platforms to made the application
-- [ ] v1: Made the first version of the app, at the moment it is a webapp
+- [x] v1: Made the first version of the app, at the moment it is a webapp
 - [ ] v2: Transform the app by webapp to native
 - [ ] v3: Add upgrade option, with notification
 - [ ] v4: Multi-language option 
@@ -48,6 +48,7 @@ What I need in the future:
 
 ---
 ## Changelog
+- [Version_02.01_2020-08-29](#Version_0201_2020-08-29)
 - [Version_01.03_2020-06-19](#Version_0103_2020-06-19)
 - [Version_01.02_2020-06-19](#Version_0102_2020-06-19)
 - [Version_01.01_2020-06-18](#Version_0101_2020-06-18)
@@ -67,6 +68,11 @@ What I need in the future:
 - [Version_0.3.0_2019-11-01](#Version_030_2019-11-01)
 - [Version_0.2.0_2019-10-28](#Version_020_2019-10-28)
 - [Version_0.1.0_2019-09-27](#Version_010_2019-09-27)
+
+---
+### Version_02.01_2020-08-29
+#### Changed
+- Now it's a native app
 
 ---
 ### Version_01.03_2020-06-19

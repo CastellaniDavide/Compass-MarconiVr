@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/floor0"
+            android:icon="@drawable/ic_baseline_map"
+            android:title="@string/floor0" />
+        <item
+            android:id="@+id/floor1"
+            android:icon="@drawable/ic_baseline_map"
+            android:title="@string/floor1" />
+        <item
+            android:id="@+id/floor2"
+            android:icon="@drawable/ic_baseline_map"
+            android:title="@string/floor2" />
+        <item
+            android:id="@+id/floor3"
+            android:icon="@drawable/ic_baseline_map"
+            android:title="@string/floor3" />
+        <item
+            android:id="@+id/floorExtra"
+            android:icon="@drawable/ic_baseline_map"
+            android:title="@string/floorextra" />
+        <item
+            android:id="@+id/credits"
+            android:icon="@drawable/ic_baseline_contact_support_24"
+            android:title="@string/credits" />
+    </group>
+</menu>

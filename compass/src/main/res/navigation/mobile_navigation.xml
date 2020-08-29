@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/floor0">
+
+    <fragment
+        android:id="@+id/floor0"
+        android:name="it.castellanidavide.compass.ui.floor0.home.Floor0Fragment"
+        android:label="@string/floor0" />
+    <fragment
+        android:id="@+id/floor1"
+        android:name="it.castellanidavide.compass.ui.floor1.home.Floor1Fragment"
+        android:label="@string/floor1" />
+    <fragment
+        android:id="@+id/floor2"
+        android:name="it.castellanidavide.compass.ui.floor2.home.Floor2Fragment"
+        android:label="@string/floor2" />
+    <fragment
+        android:id="@+id/floor3"
+        android:name="it.castellanidavide.compass.ui.floor3.home.Floor3Fragment"
+        android:label="@string/floor3" />
+    <fragment
+        android:id="@+id/floorExtra"
+        android:name="it.castellanidavide.compass.ui.floorExtra.home.FloorExtraFragment"
+        android:label="@string/floorextra" />
+    <fragment
+        android:id="@+id/credits"
+        android:name="it.castellanidavide.compass.ui.Credits.home.CreditsFragment"
+        android:label="@string/credits" />
+
+</navigation>

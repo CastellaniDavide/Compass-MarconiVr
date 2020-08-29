@@ -1,1 +1,3 @@
+include ':compass'
 include ':app'
+rootProject.name = "Compass"

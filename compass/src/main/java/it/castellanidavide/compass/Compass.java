@@ -3,10 +3,12 @@ package it.castellanidavide.compass;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.opengl.Matrix;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
+import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.widget.ImageView;
 import android.content.res.Configuration;
@@ -17,6 +19,7 @@ import android.util.DisplayMetrics;
 import java.io.*;
 import java.util.Locale;
 
+import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -44,7 +47,10 @@ public class Compass extends AppCompatActivity {
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        /*FloatingActionButton fab = findViewById(R.id.fab);
+
+        /*
+        // If I need a bottom
+        FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -53,19 +59,29 @@ public class Compass extends AppCompatActivity {
             }
         });*/
 
+        // Set up the drawer
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
+
+        //Setup the navigation
         NavigationView navigationView = findViewById(R.id.nav_view);
+
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.floor0, R.id.floor1, R.id.floor2, R.id.floor3, R.id.floorExtra, R.id.credits)
                 .setDrawerLayout(drawer)
                 .build();
+
+        //Setup the navigation2
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
+
+        //PhotoView photoView = (PhotoView) findViewById(R.id.floor0_img);
+        //photoView.setImageResource(R.drawable.floor0);
     }
-/*
+
+/*  // If I need a menu
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.

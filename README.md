@@ -1,7 +1,7 @@
 # Compass
 [![GitHub license](https://img.shields.io/badge/licence-MIT-green?style=flat)](https://github.com/CastellaniDavide/Compass-MarconiVr/blob/master/LICENSE)
 ![Author](https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat)
-![Version](https://img.shields.io/badge/version-v04.01-blue?style=flat)
+![Version](https://img.shields.io/badge/version-v04.02-blue?style=flat)
 ![Language php, html, ...](https://img.shields.io/badge/language-java,%20xml,%20...-yellowgreen?style=flat)
 ![sys.platform supported](https://img.shields.io/badge/os%20platform%20supported-Android-blue?style=flat)
 [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/Compass-MarconiVr)
@@ -48,6 +48,7 @@ What I need in the future:
 
 ---
 ## Changelog
+- [Version_04.02_2020-08-30](#Version_0402_2020-08-30)
 - [Version_04.01_2020-08-29](#Version_0401_2020-08-29)
 - [Version_03.01_2020-08-29](#Version_0301_2020-08-29)
 - [Version_02.02_2020-08-29](#Version_0202_2020-08-29)
@@ -73,6 +74,14 @@ What I need in the future:
 - [Version_0.1.0_2019-09-27](#Version_010_2019-09-27)
 
 ---
+### Version_04.02_2020-08-30
+#### Changed
+- Fixed a bug
+- Optimized the code
+- Added the zoom to the imgs
+- Added user-permission
+
+---
 ### Version_04.01_2020-08-29
 #### Changed
 - Added firebase connection
@@ -85,7 +94,7 @@ What I need in the future:
 ---
 ### Version_03.01_2020-08-29
 #### Changed
-- Now disponible in English & in Italian 
+- Now availability in English & in Italian 
 
 ---
 ### Version_02.02_2020-08-29
